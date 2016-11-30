@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Springer_style_report.aux
+The style file: unsrt.bst
+Illegal, another \bibstyle command---line 64 of file Springer_style_report.aux
+ : \bibstyle
+ :          {plain}
+I'm skipping whatever remains of this command
+Database file #1: myLibrary.bib
+I was expecting a `,' or a `}'---line 3676 of file myLibrary.bib
+ : 
+ : file = {:D$\backslash$:/drive/Uni Work/neg{\_}tec/Git/Negotiated{\_}Technical{\_}Module/space explorations.pdf:pdf},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in Logan1961
+Warning--empty title in Lien2016
+Warning--empty year in Lien2016
+(There were 2 error messages)
