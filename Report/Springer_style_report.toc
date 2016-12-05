@@ -2,20 +2,15 @@
 \contentsline {title}{A Comparison of Time Domain Numerical Methods for Faster Acoustic Modelling}{1}
 \authcount {1}
 \contentsline {author}{Simon Durbridge}{1}
-\contentsline {section}{\numberline {1}Introduction}{2}
-\contentsline {section}{\numberline {2}Acoustic Modelling}{3}
-\contentsline {subsection}{\numberline {2.1}Applications}{3}
-\contentsline {subsection}{\numberline {2.2}Ray Methods}{3}
-\contentsline {subsection}{\numberline {2.3}Wave Methods}{3}
-\contentsline {section}{\numberline {3}Time Domain Methods}{4}
-\contentsline {subsection}{\numberline {3.1}FDTD}{4}
-\contentsline {subsection}{\numberline {3.2}S-FDTD}{4}
-\contentsline {subsection}{\numberline {3.3}PSTD}{4}
-\contentsline {subsection}{\numberline {3.4}Reverberation Algorithms}{4}
-\contentsline {subsubsection}{filter based reverb}{4}
-\contentsline {subsubsection}{modelling}{5}
-\contentsline {section}{\numberline {4}Experiment Protocol}{7}
-\contentsline {subsection}{\numberline {4.1}experiment aims}{7}
-\contentsline {subsection}{\numberline {4.2}experiment method}{7}
-\contentsline {section}{\numberline {5}Conclusion}{7}
-\contentsline {section}{\numberline {6}References}{8}
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Acoustic Modelling}{4}
+\contentsline {subsection}{\numberline {2.1}Applications}{4}
+\contentsline {subsection}{\numberline {2.2}Ray Methods}{4}
+\contentsline {subsection}{\numberline {2.3}Wave Methods}{5}
+\contentsline {section}{\numberline {3}Time Domain Methods}{6}
+\contentsline {subsection}{\numberline {3.1}FDTD}{6}
+\contentsline {subsection}{\numberline {3.2}S-FDTD}{6}
+\contentsline {subsection}{\numberline {3.3}PSTD}{6}
+\contentsline {subsection}{\numberline {3.4}System Speed}{6}
+\contentsline {section}{\numberline {4}Conclusion}{6}
+\contentsline {section}{\numberline {5}References}{7}

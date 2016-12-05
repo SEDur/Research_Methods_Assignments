@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.10)  30 NOV 2016 14:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.10)  5 DEC 2016 21:05
 entering extended mode
 **./Springer_style_report.tex
 (Springer_style_report.tex
@@ -149,6 +149,10 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
+(C:\Users\Simon\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (C:\Users\Simon\AppData\Roaming\MiKTeX\2.9\tex\latex\sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
@@ -207,18 +211,18 @@ Package: cite 2015/02/27  v 5.5
 (Springer_style_report.aux)
 \openout1 = `Springer_style_report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 (C:\Users\Simon\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -278,94 +282,71 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 62.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
-[1
+ []
 
-{C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(Springer_style_report.toc)
-\tf@toc=\write3
-\openout3 = `Springer_style_report.toc'.
-
- (Springer_style_report.lof)
-\tf@lof=\write4
-\openout4 = `Springer_style_report.lof'.
-
-
-<googlevirtualsoundsources.jpg, id=10, 451.6875pt x 253.69781pt>
+<googlevirtualsoundsources.jpg, id=1, 451.6875pt x 253.69781pt>
 File: googlevirtualsoundsources.jpg Graphic file (type jpg)
 
 <use googlevirtualsoundsources.jpg>
-Package pdftex.def Info: googlevirtualsoundsources.jpg used on input line 112.
+Package pdftex.def Info: googlevirtualsoundsources.jpg used on input line 78.
 (pdftex.def)             Requested size: 208.27623pt x 116.985pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 137--139
-
- []
-
-[3 <./googlevirtualsoundsources.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 204--206
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-
- []
+LaTeX Warning: Citation `googlevr2016' on page 1 undefined on input line 80.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
+Underfull \vbox (badness 1629) has occurred while \output is active []
 
- []
+ [1{C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
+ <./googlevirtualsoundsources.jpg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 228.
+(Font)              <7> on input line 92.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 228.
-[5] [6] [7] (Springer_style_report.bbl
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ú in font cmr9!
-Missing character: There is no ‚ in font cmr9!
-Missing character: There is no Ä in font cmr9!
-Missing character: There is no ù in font cmr9!
- [8]) [9] (Springer_style_report.aux) ) 
+(Font)              <5> on input line 92.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 92.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 92.
+
+
+LaTeX Warning: Citation `Rober2007' on page 2 undefined on input line 92.
+
+<simulationtechniques.jpg, id=10, 381.67593pt x 463.7325pt>
+File: simulationtechniques.jpg Graphic file (type jpg)
+
+<use simulationtechniques.jpg>
+Package pdftex.def Info: simulationtechniques.jpg used on input line 95.
+(pdftex.def)             Requested size: 138.84729pt x 168.69841pt.
+
+
+LaTeX Warning: Citation `Rober2007' on page 2 undefined on input line 97.
+
+[2] [3 <./simulationtechniques.jpg>] [4] [5] [6] (Springer_style_report.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2654 strings out of 493334
- 36634 string characters out of 3136241
- 111890 words of memory out of 3000000
- 6146 multiletter control sequences out of 15000+200000
- 8147 words of font info for 29 fonts, out of 3000000 for 9000
+ 2691 strings out of 493334
+ 37144 string characters out of 3136241
+ 113886 words of memory out of 3000000
+ 6191 multiletter control sequences out of 15000+200000
+ 7289 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,25p,1085b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/MSC/Research Methose/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmbx10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmbx12.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmbx9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmex10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmmi5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmmi7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmr6.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmti10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmti9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mtt9.pfb>
-Output written on Springer_style_report.pdf (9 pages, 245987 bytes).
+ 40i,8n,25p,1525b,232s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D
+:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/
+MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/MSC
+/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MSC/Re
+search Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on Springer_style_report.pdf (6 pages, 178663 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
