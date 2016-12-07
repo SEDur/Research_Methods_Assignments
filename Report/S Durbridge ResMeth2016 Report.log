@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.10)  7 DEC 2016 14:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.10)  7 DEC 2016 15:05
 entering extended mode
-**./Springer_style_report.tex
-(Springer_style_report.tex
+**"./S Durbridge ResMeth2016 Report.tex"
+("S Durbridge ResMeth2016 Report.tex"
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (svproc.cls
@@ -203,8 +203,8 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-(Springer_style_report.aux)
-\openout1 = `Springer_style_report.aux'.
+("S Durbridge ResMeth2016 Report.aux")
+\openout1 = `"S Durbridge ResMeth2016 Report.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -282,103 +282,105 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 31.
 
-[1
-
-{C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (9.09923pt too wide) in paragraph at lines 70--71
+Overfull \hbox (9.09923pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 ar-eas such as pub-lic ad-dress and safety(Public Ad-dress Voic
 e Alarm(PAVA))system
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
+[1
+
+{C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 <explicit2dfdtd.jpg, id=10, 1174.3875pt x 629.35126pt>
 File: explicit2dfdtd.jpg Graphic file (type jpg)
 
 <use explicit2dfdtd.jpg>
-Package pdftex.def Info: explicit2dfdtd.jpg used on input line 78.
+Package pdftex.def Info: explicit2dfdtd.jpg used on input line 75.
 (pdftex.def)             Requested size: 208.27623pt x 111.60739pt.
 
 <simulationtechniques.jpg, id=11, 381.67593pt x 463.7325pt>
 File: simulationtechniques.jpg Graphic file (type jpg)
 
 <use simulationtechniques.jpg>
-Package pdftex.def Info: simulationtechniques.jpg used on input line 91.
+Package pdftex.def Info: simulationtechniques.jpg used on input line 88.
 (pdftex.def)             Requested size: 173.56177pt x 210.87125pt.
  [2 <./explicit2dfdtd.jpg>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 98.
+(Font)              <9> on input line 95.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 98.
- [3] [4 <./simulationtechniques.jpg>] <2dexplicitfdtdexample.jpg, id=23, 502.87
-875pt x 271.76532pt>
+(Font)              <6> on input line 95.
+ [3 <./simulationtechniques.jpg>] <2dexplicitfdtdexample.jpg, id=20, 502.87875p
+t x 271.76532pt>
 File: 2dexplicitfdtdexample.jpg Graphic file (type jpg)
 
 <use 2dexplicitfdtdexample.jpg>
-Package pdftex.def Info: 2dexplicitfdtdexample.jpg used on input line 115.
+Package pdftex.def Info: 2dexplicitfdtdexample.jpg used on input line 110.
 (pdftex.def)             Requested size: 208.27623pt x 112.55656pt.
- [5 <./2dexplicitfdtdexample.jpg>]
+ [4]
 
 LaTeX Warning: Citation `excluding some extra boundary handling to ensure stabi
-lity' on page 6 undefined on input line 138.
+lity' on page 5 undefined on input line 133.
 
-<sparsefdtd.jpg, id=33, 494.59781pt x 398.23781pt>
+<sparsefdtd.jpg, id=30, 494.59781pt x 398.23781pt>
 File: sparsefdtd.jpg Graphic file (type jpg)
  <use sparsefdtd.jpg>
-Package pdftex.def Info: sparsefdtd.jpg used on input line 141.
+Package pdftex.def Info: sparsefdtd.jpg used on input line 136.
 (pdftex.def)             Requested size: 208.27623pt x 167.69624pt.
 
-[6 <./sparsefdtd.jpg>] <spectraldiff.jpg, id=38, 1174.3875pt x 645.16031pt>
+[5 <./2dexplicitfdtdexample.jpg>]
+<spectraldiff.jpg, id=35, 1174.3875pt x 645.16031pt>
 File: spectraldiff.jpg Graphic file (type jpg)
-
-<use spectraldiff.jpg>
-Package pdftex.def Info: spectraldiff.jpg used on input line 156.
+ <use spectraldiff.jpg>
+Package pdftex.def Info: spectraldiff.jpg used on input line 151.
 (pdftex.def)             Requested size: 173.56177pt x 95.34244pt.
- <pstdexamp.jpg, id=39, 1270.7475pt x 665.48625pt>
+
+<pstdexamp.jpg, id=36, 1270.7475pt x 665.48625pt>
 File: pstdexamp.jpg Graphic file (type jpg)
-
-<use pstdexamp.jpg>
-Package pdftex.def Info: pstdexamp.jpg used on input line 161.
+ <use pstdexamp.jpg>
+Package pdftex.def Info: pstdexamp.jpg used on input line 156.
 (pdftex.def)             Requested size: 173.56177pt x 90.89282pt.
+ [6 <./sparsefdtd.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 1067) has occurred while \output is active []
-
- [7 <./spectraldiff.jpg> <./pstdexamp.jpg>] [8] (Springer_style_report.bbl
+ [7 <./spectraldiff.jpg> <./pstdexamp.jpg>] ("S Durbridge ResMeth2016 Report.bb
+l"
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
- [9]) [10]
-(Springer_style_report.aux) ) 
+ [8])
+[9] ("S Durbridge ResMeth2016 Report.aux") ) 
 Here is how much of TeX's memory you used:
  2660 strings out of 493334
- 36873 string characters out of 3136241
- 113123 words of memory out of 3000000
+ 36985 string characters out of 3136241
+ 112123 words of memory out of 3000000
  6153 multiletter control sequences out of 15000+200000
  8147 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,25p,1677b,372s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmbx9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmmi5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr6.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
-pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pf
-b><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+ 40i,8n,25p,1688b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MSC/Research Methose/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/MSC/Research Methose/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmbx9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmti10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmti9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmtt9.pfb>
+Output written on "S Durbridge ResMeth2016 Report.pdf" (9 pages, 713871 bytes).
 
-Output written on Springer_style_report.pdf (10 pages, 714155 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

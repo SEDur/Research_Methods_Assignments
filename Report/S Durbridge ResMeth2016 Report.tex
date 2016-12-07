@@ -41,9 +41,6 @@ Wave based acoustic modelling methods promise many benefits over ray based metho
 \keywords{Acoustic Modelling, Numerical Methods, Time Domain, Fast}
 \end{abstract}
 
-
-\newpage
-
 %----------------------------------------------------------------------------------------
 %	Contents
 %----------------------------------------------------------------------------------------
@@ -102,8 +99,6 @@ Ray based modelling methods, also regarded as geometric methods, are those that 
 
 Wave based modelling methods comprise of the discretization of a problem geometry into rational segments, following which a partial different equation is solved across the components or 'elements' of the geometry~\cite{Bilbao2004}. The partial different equations used in the context of large room acoustics problems are generally linearised Navier-Stokes equations for waves in homogeneous media~\cite{Rienstra1952a}. Some methods will compute solutions in the time domain i.e. iterative direct solutions, and some in the frequency domain such as FEM or the boundary element method(BEM). The benefit of 'element' methods such as FEM, BEM and Discontinuous Galerkin, is that a significant amount of supporting research has been done to improve this method of formulation for a wide range of physics problems~\cite{Zienkiewicz2013}. In acoustics, these methods still involve solving a domain that is discretized such that the smallest element is at least a sixth the size of the shortest wavelength of interest, and thus requires a significant amount of time to solve. Further more frequency domain calculations require solutions for every frequency of interest. Time domain methods for direct solutions can however be optimised for real time performance~\cite{Savioja2010}. Three variations of the finite difference time domain method are evaluated in the next section.
 
-
-\newpage
 %------------------------------------------------
 \section{The FDTD Method}
 %---------------------------------------------
@@ -172,9 +167,7 @@ In Windows distributions before 10, the standard buffer size was 16mS which may 
 In this report, a description of acoustic modelling and some applications was given. The requirement for real time operation was suggested, and a basic description of modelling methods was given. The FDTD method was then described in more detail, along with two potential methods for increasing computation speed towards real time operation. In further work, the PSTD method and SFDTD methods would be applied and optimised in C++ and Cuda for the GPGPU. Some validation and benchmarking of problems would then take place, and a comparison made as to which method was more suited to real time operation with arbitrary sources and receivers.
 
 
-
 %----------------------------------------------------------------------------------------
-\newpage
 \section{References}
 
 \bibliography{library}

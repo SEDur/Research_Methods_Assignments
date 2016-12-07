@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.10)  7 DEC 2016 14:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.10)  7 DEC 2016 15:12
 entering extended mode
-**./Springer_style_report.tex
-(Springer_style_report.tex
+**"./S Durbridge ResMeth2016 Report NoPics.tex"
+("S Durbridge ResMeth2016 Report NoPics.tex"
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (svproc.cls
@@ -203,8 +203,8 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
-(Springer_style_report.aux)
-\openout1 = `Springer_style_report.aux'.
+("S Durbridge ResMeth2016 Report NoPics.aux")
+\openout1 = `"S Durbridge ResMeth2016 Report NoPics.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -282,103 +282,158 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 31.
 
-[1
 
-{C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (9.09923pt too wide) in paragraph at lines 70--71
+LaTeX Warning: Citation `BritishStandardsInst2013' on page 1 undefined on input
+ line 68.
+
+
+LaTeX Warning: Citation `Google2016' on page 1 undefined on input line 68.
+
+
+LaTeX Warning: Citation `Dod2016' on page 1 undefined on input line 68.
+
+
+Overfull \hbox (9.09923pt too wide) in paragraph at lines 68--69
 \OT1/cmr/m/n/10 ar-eas such as pub-lic ad-dress and safety(Public Ad-dress Voic
 e Alarm(PAVA))system
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-<explicit2dfdtd.jpg, id=10, 1174.3875pt x 629.35126pt>
-File: explicit2dfdtd.jpg Graphic file (type jpg)
+[1
 
-<use explicit2dfdtd.jpg>
-Package pdftex.def Info: explicit2dfdtd.jpg used on input line 78.
-(pdftex.def)             Requested size: 208.27623pt x 111.60739pt.
+{C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
-<simulationtechniques.jpg, id=11, 381.67593pt x 463.7325pt>
-File: simulationtechniques.jpg Graphic file (type jpg)
+LaTeX Warning: Citation `Everest2009' on page 2 undefined on input line 86.
 
-<use simulationtechniques.jpg>
-Package pdftex.def Info: simulationtechniques.jpg used on input line 91.
-(pdftex.def)             Requested size: 173.56177pt x 210.87125pt.
- [2 <./explicit2dfdtd.jpg>]
+
+LaTeX Warning: Citation `Bengtsson2009' on page 2 undefined on input line 86.
+
+
+LaTeX Warning: Citation `Elorza2005' on page 2 undefined on input line 86.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 98.
+(Font)              <9> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 98.
- [3] [4 <./simulationtechniques.jpg>] <2dexplicitfdtdexample.jpg, id=23, 502.87
-875pt x 271.76532pt>
-File: 2dexplicitfdtdexample.jpg Graphic file (type jpg)
+(Font)              <6> on input line 96.
 
-<use 2dexplicitfdtdexample.jpg>
-Package pdftex.def Info: 2dexplicitfdtdexample.jpg used on input line 115.
-(pdftex.def)             Requested size: 208.27623pt x 112.55656pt.
- [5 <./2dexplicitfdtdexample.jpg>]
+LaTeX Warning: Citation `Elorza2005' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Citation `Rober2007' on page 2 undefined on input line 96.
+
+
+LaTeX Warning: Citation `Rober2007' on page 2 undefined on input line 96.
+
+[2]
+
+LaTeX Warning: Citation `Bilbao2004' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `Rienstra1952a' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `Zienkiewicz2013' on page 3 undefined on input line 101
+.
+
+
+LaTeX Warning: Citation `Savioja2010' on page 3 undefined on input line 101.
+
+
+LaTeX Warning: Citation `Yee1966' on page 3 undefined on input line 109.
+
+
+LaTeX Warning: Citation `Schneider2015' on page 3 undefined on input line 109.
+
+[3]
+
+LaTeX Warning: Citation `Abdulkadir2015' on page 4 undefined on input line 133.
+
+
+
+LaTeX Warning: Citation `Oxnard2015' on page 4 undefined on input line 133.
+
+
+LaTeX Warning: Citation `Bilbao2016' on page 4 undefined on input line 133.
+
+
+LaTeX Warning: Citation `Hamilton2014' on page 4 undefined on input line 133.
+
+
+LaTeX Warning: Citation `Savioja2010' on page 4 undefined on input line 133.
+
+
+LaTeX Warning: Citation `Angus2010' on page 4 undefined on input line 133.
+
 
 LaTeX Warning: Citation `excluding some extra boundary handling to ensure stabi
-lity' on page 6 undefined on input line 138.
+lity' on page 4 undefined on input line 136.
 
-<sparsefdtd.jpg, id=33, 494.59781pt x 398.23781pt>
-File: sparsefdtd.jpg Graphic file (type jpg)
- <use sparsefdtd.jpg>
-Package pdftex.def Info: sparsefdtd.jpg used on input line 141.
-(pdftex.def)             Requested size: 208.27623pt x 167.69624pt.
 
-[6 <./sparsefdtd.jpg>] <spectraldiff.jpg, id=38, 1174.3875pt x 645.16031pt>
-File: spectraldiff.jpg Graphic file (type jpg)
+LaTeX Warning: Citation `Doerr2013' on page 4 undefined on input line 136.
 
-<use spectraldiff.jpg>
-Package pdftex.def Info: spectraldiff.jpg used on input line 156.
-(pdftex.def)             Requested size: 173.56177pt x 95.34244pt.
- <pstdexamp.jpg, id=39, 1270.7475pt x 665.48625pt>
-File: pstdexamp.jpg Graphic file (type jpg)
 
-<use pstdexamp.jpg>
-Package pdftex.def Info: pstdexamp.jpg used on input line 161.
-(pdftex.def)             Requested size: 173.56177pt x 90.89282pt.
+LaTeX Warning: Citation `Hornikx2016' on page 4 undefined on input line 145.
 
-Underfull \vbox (badness 1067) has occurred while \output is active []
 
- [7 <./spectraldiff.jpg> <./pstdexamp.jpg>] [8] (Springer_style_report.bbl
+LaTeX Warning: Citation `Angus2010' on page 4 undefined on input line 145.
+
+[4]
+
+LaTeX Warning: Citation `Pirkle2013' on page 5 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Microsoft2016' on page 5 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Galvez2016' on page 5 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Microsoft2016' on page 5 undefined on input line 166.
+
+
+LaTeX Warning: Citation `Savioja2010' on page 5 undefined on input line 166.
+
+[5] ("S Durbridge ResMeth2016 Report NoPics.bbl"
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
- [9]) [10]
-(Springer_style_report.aux) ) 
+ [6]) [7]
+("S Durbridge ResMeth2016 Report NoPics.aux")
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2660 strings out of 493334
- 36873 string characters out of 3136241
- 113123 words of memory out of 3000000
- 6153 multiletter control sequences out of 15000+200000
+ 2626 strings out of 493334
+ 36361 string characters out of 3136241
+ 113002 words of memory out of 3000000
+ 6126 multiletter control sequences out of 15000+200000
  8147 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,25p,1677b,372s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmbx10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmbx9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmmi5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr5.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr6.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmr7.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
-9.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.
-pfb><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pf
-b><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-
-Output written on Springer_style_report.pdf (10 pages, 714155 bytes).
+ 40i,8n,25p,1695b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+><D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<D:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><D
+:/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:
+/MSC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/M
+SC/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MSC
+/Research Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MSC/R
+esearch Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/MSC/Rese
+arch Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/MSC/Researc
+h Methose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MSC/Research M
+ethose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/MSC/Research Meth
+ose/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MSC/Research Metho
+se/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MSC/Research Methos
+e/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><D:/MSC/Research Methose/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on "S Durbridge ResMeth2016 Report NoPics.pdf" (7 pages, 201485 
+bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
